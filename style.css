@@ -1,0 +1,28 @@
+.content_Name {
+  display: flex;
+  justify-content: space-between;
+}
+.content_sign-up {
+  background-color: blue;
+  color: white;
+}
+.content_log-in {
+  background-color: darkgrey;
+  color: black;
+  border-radius: 4px;
+}
+.hero_text {
+  display: flex;
+  font-family: "Poppins";
+  font-size: 40px;
+  font-weight: 700;
+}
+.content_small {
+  display: flex;
+  width: 513px;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #556987;
+}
